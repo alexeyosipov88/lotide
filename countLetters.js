@@ -17,3 +17,4 @@ const countLetters = function(sentence) {
   return result;
 }
 console.log(countLetters("I am a very successful programmer in Canada"));
+module.exports = countLetters;

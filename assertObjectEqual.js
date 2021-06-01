@@ -47,4 +47,4 @@ const object2 = {
   obectsToTest: [1, 2, 3, 4]
 };
 
-assertObjectsEqual(object1, object2);
+module.exports = assertObjectsEqual;

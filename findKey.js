@@ -21,3 +21,5 @@ let check = findKey({
 }, x => x.stars === 2);
 
 assertEqual(check, "noma")
+
+module.exports = findKey;
