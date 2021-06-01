@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@alexeyosipov/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "project of the Lighthouse Labs coding bootcamp",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/alexeyosipov88/lotide.git"
   },
-  "author": "",
+  "author": "Alexey Osipov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alexeyosipov88/lotide/issues"
